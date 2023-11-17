@@ -1,4 +1,9 @@
 # Map-Reduce
+
+• MapReduce is a programming model used for efficient processing in parallel over large data-sets in a distributed manner. The data is first split and then combined to produce the final result.
+• The purpose of MapReduce in Hadoop is to Map each of the jobs and then it will reduce it to equivalent tasks for providing less overhead over the cluster net
+
+
 #    how-to-use?
 
 0- Open 7 different terminals on vs code 
